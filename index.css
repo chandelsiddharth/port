@@ -1,0 +1,93 @@
+body{
+  background-color: #191A19;
+
+}
+img{
+  border-radius: 20%;
+  padding:40px;
+}
+h4{
+  font-size: 90px;
+}
+.intro{
+  position: absolute;
+  top: 200px;
+  left: 600px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Festive', cursive;
+}
+.b{
+  background-color:#8E05C2;
+  padding: 10px;
+}
+i{
+  font-size: 50px;
+  padding-left: 20px;
+  color: white;
+}
+
+.tt{
+  position: absolute;
+  top: 20px;
+  left: 800px;
+  color: white;
+}
+.navbar-brand{
+  color: white;
+}
+#about{
+  position: relative;
+  top: 100px;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: white;
+}
+#skills{
+  position: relative;
+  top: 200px;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: white;
+}
+.ms{
+  position: absolute;
+  top: 20px;
+  left: 880px;
+  color: white;
+}
+#Projects{
+  position: relative;
+  top: 200px;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: white;
+}
+#contact{
+  position: relative;
+  top: 400px;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: white;
+}
+.cont{
+  position: absolute;
+  top: 20px;
+  left: 960px;
+  color: white;
+}
+.typewrite{
+  color: white;
+  position: relative;
+  left: auto;
+}
+.pro{
+  position: absolute;
+  top: 20px;
+  left: 1050px;
+  color: white;
+}
+a:link, a:hover {
+  text-decoration: none;
+  color: black;
+}
